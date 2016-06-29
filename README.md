@@ -24,5 +24,13 @@ npm i react-native-airplay --save
   
   
   Clone the Example if you need how to include in js.
+
+## Author
+
+wanaya, memoanaya@gmail.com
+
+## License
+
+gbox-video-player is available under the MIT license. See the LICENSE file for more info.
   
   
