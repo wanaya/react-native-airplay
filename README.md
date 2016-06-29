@@ -14,11 +14,8 @@ npm i react-native-airplay --save
   - If Xcode ask you for include the 'Bridging-Herder.h', accept it
   - Include in the 'Bridging-Herder.h' the next lines: ```
   #import "RCTBridgeModule.h"
-  
   #import "RCTEventDispatcher.h"
-  
   #import "RCTView.h"
-  
   #import "RCTViewManager.h"```
   
   - Rebuild your project and done!
